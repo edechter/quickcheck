@@ -17,7 +17,8 @@
 %    * `any`
 %    * `atom`
 %    * `atomic`
-%    * between(L,U)
+%    * between(IntL,IntU)
+%    * between(FloatL,FloatU)
 %    * `boolean`
 %    * `chars`
 %    * `code` - printable ASCII for now
